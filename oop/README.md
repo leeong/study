@@ -1,5 +1,6 @@
 1. Creational 创建型模式 
     * Simple Factory Pattern 简单工厂模式
+    * Abstract Factory Pattern 抽象工厂模式
 1. Structural 结构型模式
     * Decorator Pattern 装饰模式
 1. Behavioral 行为型模式
@@ -11,3 +12,4 @@
 1. Car 观察者模式
 1. Decorator 装饰模式
 1. SimpleFactoryPattern 简单工厂模式
+1. AbstractFactoryPattern 抽象工厂模式
