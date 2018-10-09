@@ -8,6 +8,7 @@
     * Singleton Pattern 单例模式
 1. Structural 结构型模式
     * Decorator Pattern 装饰模式
+    * Facade Pattern 门面模式
 1. Behavioral 行为型模式
     * Observer Pattern 观察者模式
     * Strategy Pattern 策略模式
@@ -23,3 +24,4 @@
 1. BuilderPattern 建造者模式
 1. PrototypePattern 原型模式
 1. SingletonPattern 单例模式
+1. FacadePattern 门面模式
