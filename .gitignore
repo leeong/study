@@ -1,4 +1,7 @@
 .idea
 vendor
+vue
+webpack
+tpl
 composer.lock
 *.log
